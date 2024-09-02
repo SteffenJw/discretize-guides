@@ -11,7 +11,7 @@ boons:
     uptime: 100%
     variant: "party "
   - name: Might
-    uptime: 13 Stacks
+    uptime: 20 Stacks
     variant: party
   - name: Protection
     uptime: 100%
@@ -32,10 +32,10 @@ classification:
   - 4
   - 1
   - 3
-date: "2024-07-10T17:55:42.204Z "
+date: "2024-09-02T14:23:45.999Z "
 ---
 
-<Specialization name="Herald" text="Power Quickness Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~16 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. This build is incredibly strong on fractals such as Lonely Tower, due to its massive 600 radius boon sharing range and boon extension abilities, making it easy to maintain boons on your allies as they are spread out dealing with mechanics. <Specialization name="Herald" text="Power Quickness Herald"/> is a more defensive <Boon name="Quickness"/> DPS option to builds such as <Specialization name="Scrapper"/>. It has less burst and damage potential, however offers significantly more supportive utility to the group. 
+<Specialization name="Herald" text="Power Quickness Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~20 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. This build is incredibly strong on fractals such as Lonely Tower, due to its massive 600 radius boon sharing range and boon extension abilities, making it easy to maintain boons on your allies as they are spread out dealing with mechanics. <Specialization name="Herald" text="Power Quickness Herald"/> is a more defensive <Boon name="Quickness"/> DPS option to builds such as <Specialization name="Scrapper"/>. It has less burst and damage potential, however offers significantly more supportive utility to the group. 
 
 <Divider text="Equipment"/> 
 <CharacterWithAr>
@@ -91,7 +91,7 @@ If you are on a boss fight that doesn't require much CC or you are in a group th
 Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
 </Warning>
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with any skill that can CC an enemy.
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). The way that is most recommended is with <Skill name="True Nature" /> while in <Skill name="Legendary Assassin stance" />. This also has a 20 second cd, perfectly lining up with <Instability name="No Pain, No Gain"/>. However, if there are multiple mobs that require boon stripping such as in MAMA of Nightmare CM or potentially the Aetherblade Fractal, then using <Skill name="Banish Enchantment" /> with <Skill name="Legendary Demon Stance"/> is also acceptable.You can also run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with any skill that can CC an enemy.
 
 <Grid>
 <GridItem sm="4">
