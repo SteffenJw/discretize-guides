@@ -11,7 +11,7 @@ boons:
     uptime: 100%
     variant: "party "
   - name: Might
-    uptime: 20 Stacks
+    uptime: 18 Stacks
     variant: party
   - name: Protection
     uptime: 100%
@@ -32,10 +32,10 @@ classification:
   - 4
   - 1
   - 3
-date: "2024-09-02T14:23:45.999Z "
+date: "2024-09-02T14:52:03.487Z "
 ---
 
-<Specialization name="Herald" text="Power Quickness Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~20 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. This build is incredibly strong on fractals such as Lonely Tower, due to its massive 600 radius boon sharing range and boon extension abilities, making it easy to maintain boons on your allies as they are spread out dealing with mechanics. <Specialization name="Herald" text="Power Quickness Herald"/> is a more defensive <Boon name="Quickness"/> DPS option to builds such as <Specialization name="Scrapper"/>. It has less burst and damage potential, however offers significantly more supportive utility to the group. 
+<Specialization name="Herald" text="Power Quickness Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~18 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. This build is incredibly strong on fractals such as Lonely Tower, due to its massive 600 radius boon sharing range and boon extension abilities, making it easy to maintain boons on your allies as they are spread out dealing with mechanics. <Specialization name="Herald" text="Power Quickness Herald"/> is a more defensive <Boon name="Quickness"/> DPS option to builds such as <Specialization name="Scrapper"/>. It has less burst and damage potential, however offers significantly more supportive utility to the group. 
 
 <Divider text="Equipment"/> 
 <CharacterWithAr>
