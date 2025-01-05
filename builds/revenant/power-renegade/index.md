@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-10-30T20:55:27.621Z "
+date: "2025-01-05T20:33:43.915Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -198,7 +198,7 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 3. Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
 4. <Skill name="Eternity's Requiem"/>
 5. <Skill name="Citadel Bombardment"/>
-6. <Skill name="Mist Unleashed"/>
+6. <Skill name="Phantom's onslaught"/>
 7. Swap to Sword
 
 **Sword Burst**
