@@ -4,6 +4,7 @@ hidden: false
 archive: false
 rating: Meta
 role: Power Damage
+author: SmG Phoenix.5183
 profession: Revenant
 specialization: Herald
 boons:
@@ -32,7 +33,7 @@ classification:
   - 4
   - 1
   - 3
-date: "2024-09-02T14:52:03.487Z "
+date: "2025-02-02T23:55:58.217Z "
 ---
 
 <Specialization name="Herald" text="Power Quickness Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~18 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. This build is incredibly strong on fractals such as Lonely Tower, due to its massive 600 radius boon sharing range and boon extension abilities, making it easy to maintain boons on your allies as they are spread out dealing with mechanics. <Specialization name="Herald" text="Power Quickness Herald"/> is a more defensive <Boon name="Quickness"/> DPS option to builds such as <Specialization name="Scrapper"/>. It has less burst and damage potential, however offers significantly more supportive utility to the group. 
