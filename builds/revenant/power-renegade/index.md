@@ -17,14 +17,14 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: ""
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2024-07-10T15:19:58.638Z "
-cmGuide: ""
+date: "2025-01-05T20:33:43.915Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -106,6 +106,7 @@ If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
 | <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_. |   
+
 
 ### Defiance Bar Damage
 
@@ -197,7 +198,7 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 3. Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
 4. <Skill name="Eternity's Requiem"/>
 5. <Skill name="Citadel Bombardment"/>
-6. <Skill name="Mist Unleashed"/>
+6. <Skill name="Phantom's onslaught"/>
 7. Swap to Sword
 
 **Sword Burst**
@@ -300,4 +301,4 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 
 4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
 
-5. <Trait name="All for One"/>: This trait gives a 10% strike damage increase for every <Skill name="Legendary Renegade Stance"/> ability used.
+5. <Trait name="All for One"/>: This trait gives a 10% strike damage increase for every <Skill name="Legendary Renegade Stance"/> ability used. You ideally want to maintain this buff throughout both legends. To do so, make sure to cast <Skill name="Icerazor's Ire"/> twice in Kalla, once at the beginning and once at the end of the loop.
