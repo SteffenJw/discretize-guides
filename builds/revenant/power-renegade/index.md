@@ -4,6 +4,7 @@ hidden: false
 archive: false
 rating: Meta
 role: Power Damage
+author: SmG Phoenix.5183
 profession: Revenant
 specialization: Renegade
 conditions:
@@ -24,7 +25,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2025-01-05T20:33:43.915Z "
+date: "2025-02-02T23:54:37.463Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
