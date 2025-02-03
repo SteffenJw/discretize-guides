@@ -6,14 +6,20 @@ bosses: 2
 difficulties:
   - level: 100
     ar: 150
-potions: []
+potions:
+  - 9443
+  - 8886
 hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-06-17T20:16:33.035Z "
+date: "2025-02-03T00:46:29.242Z "
 consumables: []
-record: {}
+record:
+  time: 2:25
+  by:
+    - name: Boomer Fishing Club
+      tag: BFC
 long_description: Immediately following the foundation of the Astral Ward,
   Eparch finally returned to Tyria to strike back against Isgarren's
   "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda
@@ -21,10 +27,12 @@ long_description: Immediately following the foundation of the Astral Ward,
   to where they came from.
 api: 26231
 description: Mabon, Isgarren. Pick a god and thank her for your survival...
-sigils: []
+sigils:
+  - 24615
+  - 24664
 ---
 
-Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from.  
+Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from.   
 
 <Divider text="Normal Mode"/>
 <Grid>
@@ -115,7 +123,7 @@ Deimos will slam the ground creating a large AoE on the ground. This will then s
 </GridItem>
 </Grid>
 
-## Eparch <Item id="9443" disableText size="medium"/> <Item id="24664" disableText size="medium"/>
+## Eparch <Item id="8886" disableText size="medium"/> <Item id="24664" disableText size="medium"/>
 Once you have defeated the brothers, take the portal to the final boss. Before fighting Eparch, you will have to kill some trash mobs. Once you have dealt with them you can _/gg_ again, to reset cooldowns and prestack boons while Eparch spawns. When ready aproach the white circle on the ground to enter the arena.
 
 <Grid>
@@ -150,7 +158,7 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Consumed**   | Consume (CC)         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
-- Healer / Lowest damage build in a no-heal composition - Despair
+- Healer / Lowest damage build in a no-heal composition - Despair + Envy to cancel eachother out
 - Power DPS - Rage
 - Condi DPS - Envy
 
@@ -201,7 +209,7 @@ Something
 </Grid>
 
 <Divider text="Challenge Mode"/>
-## Eparch CM <Item id="9443" disableText size="medium"/> <Item id="24664" disableText size="medium"/>
+## Eparch CM <Item id="8886" disableText size="medium"/> <Item id="24664" disableText size="medium"/>
 <Grid>
 <GridItem>
 <Achievement title="Secrets of the Tower ">
@@ -223,9 +231,35 @@ With Challenege mode enabled, the majority of the fractal plays out the same as 
 
 The rest of the encounter is exactly the same as the T4 mode.
 
-### Split Phase
-When reaching a split phase, Eparch will leave the Arena and spawn 2 rifts in the 65% phase, and 3 rifts in the 35% phase. Each rift will spawn a Champion incarnation of Judgement, or a Champion Incarnation of Cruelty, along with some trash mobs. To close the rift, its associated Champion must be killed, to allow players to close the rift by channeling in a white AoE that spawns. Meanwhile the mobs will be drawn towards Eparch, who is floating above the arena. When the adds get close, they tether to Eparch giving him stacks of Globules of Emotion.
+### Pre-fight Organisation
+
+Before starting the encounter it is important to discuss two things:
+1. Assign Orbs - 
+2. Decide on a Gluttony Strat - To make the split phases quick and painfree, you typically want your Gluttony player to start each split phase with 12 stacks of Gluttony. For most groups this means picking up two sets of orbs in the first phase and one set of orbs in the second phase (however slower groups will want to pick up two sets in both phases). Make sure to confirm this before starting so that the party knows to stop attacking to allow the second set of Gluttony Globules to spawn in the first phase and also in P2 if required.
+
+### 100% - 65%
+
+### 65% Split Phase
+When reaching 65%, Eparch will leave the Arena and spawn 2 rifts Each rift will spawn either a Champion incarnation of Judgement, or a Champion Incarnation of Cruelty, along with some trash mobs. To close the rift, its associated Champion must be killed, to allow players to close the rift by channeling in a white AoE that spawns. Meanwhile Aspects of Emotion will spawn and be drawn towards Eparch, who is floating above the arena. When the Aspects get close, they tether to Eparch giving him stacks of Globules of Emotion.
+
+Typically groups will move to the North rift first. Once you reach the Champion make sure to CC it instantly. At this point let your Rage DPS and Gluttony DPS players go big and burst the Champion down as fast as possible. When killing the champions there are two main attacks to watch out for. The Champion incarnation of Judgement will spawn an orange expanding AoE. Anyone hit by this once it channels will have all of their boons transferred to the Champion. Meanwhile the Champion Incarnation of Cruelty will spawn walls that will <Control name="Knockback"/> any player who touches them. To negate this ensure you have a source of <Boon name="Stability"/>. Additionally both champions have other attacks that generally will <Control name="Knockback"/> players, but are well telegraphed and easily avoided.
+
+While killing the first champion, keep an eye on the second rift. If Aspects have spawned and are getting closer to Eparch, you may need to send a player to either CC them and keep them back while the party finishes with the first rift, or to go kill them. This is typically only required in groups with low damage or missing Stacks or Rage and Gluttony Orbs going into the split phase.
+
+Once the first champion has been killed, you can then interact with the rift to close it. Make sure to target the rift to preven being interrupted from channeling. You may want to send your Rage and Gluttony DPS players ahead with the support player to start fighting the second champion, however if aspects have spawned and are getting close to the middle, keep the Rage player back since they deal more damage to the rift. Once the rift has closed any Aspects from the rift wil despawn and you can safely move to the second rift and repeat the process
+<Warning>
+When closing the final rift, Aspects can take a couple of seconds to despawn meaning they can still tether to Eparch and give him stacks. To prevent this you may need to kill any aspects before closing the rift if they are close to the middle of the arena!
+</Warning>
+
+### 65% - 35%
+This phase is a repeat of the first, however at either the start of the Phase or shortly into it (depending on pace) Eparch will gain another CC bar and start consuming stacks of emotion again. As in the first phase break the bar quickly and continue to DPS. This phase will be much faster due to players already starting the phase with stacks of Gluttony and Rage. Make sure to pay atention to Eparchs health and stop DPS to allow the Gluttony player to collect another set of Globules before phasing.
+
+### 35% Split Phase
+Once again this is essentially the same as the first split, however this time three rifts will spawn. This phase can get a bit hectic, especially if Gluttony stacks start to drop. Repeat the same process as the first phase, move to the North champion, CC it, Kill it, Send people ahead, remaining players closes the rift, and manage any Aspects in necessary, and repeat for the next two rifts. Sometimes a champion may get bored of waiting for yout party to walk to it and will come to you instead. If this is the case just swap to it once you have killed the champion you are currently attacking and make sure to pay attention to any Aspects spawning as they will not get cleaved down if you are away from the rift.
 
 <Warning>
-The split phases are currently very poorly balanced, making it hard to complete without Eparch gaining stacks of each emotion. To make the subsequent phases easier, it is best to stack Gluttony Globules on one player who can then lifesteal each rift to death in the splits, closing them before the trash mobs can reach Eparch. 
+When closing the final rift, Aspects can take a couple of seconds to despawn meaning they can still tether to Eparch and give him stacks. To prevent this you may need to kill any aspects before closing the rift if they are close to the middle of the arena!
 </Warning>
+
+### 35% - 0%
+Once again this phase is a repeat of the first and second phases, keep collecting Globules, insta CC Eparch when he gains a CC bar, and be careful of getting hit by Eparchs attacks if he has lots of Emtion stacks at this point. 
