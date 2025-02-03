@@ -13,10 +13,10 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-02-03T22:48:51.097Z "
+date: "2025-02-03T22:49:28.027Z "
 consumables: []
 record:
-  time: 2:25
+  time: 2 min 25 sec
   by:
     - name: Boomer Fishing Club
       tag: BFC
