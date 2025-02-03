@@ -13,7 +13,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-02-03T00:46:29.242Z "
+date: "2025-02-03T22:48:51.097Z "
 consumables: []
 record:
   time: 2:25
@@ -59,13 +59,13 @@ Upon entering the fractal take the _Mistlock Singularity_ and head out the start
 
 ## Astral Purifiers 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Inside the room, you will find four Astral Purifier Nodes that must be repaired. Interacting with a node will give you the effect <Label>Time Running Out</Label>. It will turn your weapon skills into a Simon Says styled minigame, where you will have to press a highlighted skill 10 times, before the 30 second timer runs out. Pressing the wrong skill will knock you back and cancel the minigame, requiring you to start again.
 
 During the minigame, three Avatars of Spite will spawn and fixate on the player reapiring the node. When they get close they will apply <Condition name="Poisoned"/> and explode knocking the player back, cancelling the minigame. These can either be dealt with by the rest of the party, using crowd control and killing them, or alternatively the player on the node can b e given or use their own source of <Boon name="Stability"/> to negate the knockback, allowing them to continue the game. The <Boon name="Stability"/> method allows multiple nodes to be completed at the same time.  
 </GridItem>
-<GridItem>
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Soloing an Astral Purifier Node with Stability " />
+<GridItem sm="4">
+<GifPlayer sourceId="lonely-tower-astral-purifier" caption="Soloing an Astral Purifier Node with Stability"/>
 </GridItem>
 </Grid>
 
@@ -170,7 +170,7 @@ During his rotation, Eparch will gain a defiance bar, then pull in and consume a
 Additionally, during this phase, Eparch will target one player and apply the <Label>Consume</Label> effect. This will start to remove any Emotion stacks the player has untill they reach zero or the defiance bar is broken. At zero stacks, Eparch will apply stacks of the <Label>Consumed</Label> effect, with each stat lowering the players attributes. To reduce the stacks and remove this effect, the player will have to collect Globules of Emotion.
 </GridItem>
 <GridItem sm="4">
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+<GifPlayer sourceId="lonely-tower-eparch-consume" caption="Throw firewood into the fire"/>
 </GridItem>
 </Grid> 
 
@@ -178,32 +178,32 @@ Additionally, during this phase, Eparch will target one player and apply the <La
 <Grid>
 <GridItem sm="4">
 #### Rain of Despair
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+<GifPlayer sourceId="lonely-tower-eparch-despair" caption=""/>
+Eparch will raise his greatsword in the air and spawn Globules of Despair. At the same time he will spawn Despair AoEs spiraling outwards from his hitbox. Standing in an AoE will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>.
 </GridItem>
 <GridItem sm="4">
 #### Enraged Smash
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Spawns Rage Fissure lines on ground
+<GifPlayer sourceId="lonely-tower-eparch-rage" caption=""/>
+Eparch will leap into the air and slam his greatsword on the ground spawning Globules of Rage. At the same time fissues will spawn on the ground applying x to anyone hit. Eparch will also create a shockwave that needs to be jumped or dodged. Failing to avoid the shockwave will cause players to be hit by <Control name="Knockdown"/> and the shockwave will apply x.
 </GridItem>
 <GridItem sm="4">
 #### Wave of Envy
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+<GifPlayer sourceId="lonely-tower-eparch-envy" caption=""/>
 Stand inside hitbox
 </GridItem>
 <GridItem sm="4">
 #### Inhale
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+<GifPlayer sourceId="lonely-tower-eparch-gluttony" caption=""/>
 Something
 </GridItem>
 <GridItem sm="4">
 #### Spike of Malice
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+<GifPlayer sourceId="lonely-tower-eparch-malice" caption=""/>
 Something
 </GridItem>
 <GridItem sm="4">
 #### Spawn Adds
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+<GifPlayer sourceId="lonely-tower-eparch-regret" caption=""/>
 Something
 </GridItem>
 </Grid>
@@ -240,25 +240,25 @@ Before starting the encounter it is important to discuss two things:
 ### 100% - 65%
 
 ### 65% Split Phase
-When reaching 65%, Eparch will leave the Arena and spawn 2 rifts Each rift will spawn either a Champion incarnation of Judgement, or a Champion Incarnation of Cruelty, along with some trash mobs. To close the rift, its associated Champion must be killed, to allow players to close the rift by channeling in a white AoE that spawns. Meanwhile Aspects of Emotion will spawn and be drawn towards Eparch, who is floating above the arena. When the Aspects get close, they tether to Eparch giving him stacks of Globules of Emotion.
+When reaching 65%, Eparch will leave the Arena and spawn 2 rifts Each rift will spawn either a Champion incarnation of Judgement, or a Champion Incarnation of Cruelty, along with some trash mobs. To close the rift, its associated Champion must be killed, to allow players to close the rift by channeling in a white AoE that spawns. Meanwhile Avatars of Spite will spawn and be drawn towards Eparch, who is floating above the arena. When the Aspects get close, they tether to Eparch giving him stacks of Globules of Emotion.
 
 Typically groups will move to the North rift first. Once you reach the Champion make sure to CC it instantly. At this point let your Rage DPS and Gluttony DPS players go big and burst the Champion down as fast as possible. When killing the champions there are two main attacks to watch out for. The Champion incarnation of Judgement will spawn an orange expanding AoE. Anyone hit by this once it channels will have all of their boons transferred to the Champion. Meanwhile the Champion Incarnation of Cruelty will spawn walls that will <Control name="Knockback"/> any player who touches them. To negate this ensure you have a source of <Boon name="Stability"/>. Additionally both champions have other attacks that generally will <Control name="Knockback"/> players, but are well telegraphed and easily avoided.
 
-While killing the first champion, keep an eye on the second rift. If Aspects have spawned and are getting closer to Eparch, you may need to send a player to either CC them and keep them back while the party finishes with the first rift, or to go kill them. This is typically only required in groups with low damage or missing Stacks or Rage and Gluttony Orbs going into the split phase.
+While killing the first champion, keep an eye on the second rift. If Avatars of Spite have spawned and are getting closer to Eparch, you may need to send a player to either CC them and keep them back while the party finishes with the first rift, or to go kill them. This is typically only required in groups with low damage or missing Stacks or Rage and Gluttony Orbs going into the split phase.
 
 Once the first champion has been killed, you can then interact with the rift to close it. Make sure to target the rift to preven being interrupted from channeling. You may want to send your Rage and Gluttony DPS players ahead with the support player to start fighting the second champion, however if aspects have spawned and are getting close to the middle, keep the Rage player back since they deal more damage to the rift. Once the rift has closed any Aspects from the rift wil despawn and you can safely move to the second rift and repeat the process
 <Warning>
-When closing the final rift, Aspects can take a couple of seconds to despawn meaning they can still tether to Eparch and give him stacks. To prevent this you may need to kill any aspects before closing the rift if they are close to the middle of the arena!
+When closing the final rift, Avatars of Spite can take a couple of seconds to despawn meaning they can still tether to Eparch and give him stacks. To prevent this you may need to kill any aspects before closing the rift if they are close to the middle of the arena!
 </Warning>
 
 ### 65% - 35%
 This phase is a repeat of the first, however at either the start of the Phase or shortly into it (depending on pace) Eparch will gain another CC bar and start consuming stacks of emotion again. As in the first phase break the bar quickly and continue to DPS. This phase will be much faster due to players already starting the phase with stacks of Gluttony and Rage. Make sure to pay atention to Eparchs health and stop DPS to allow the Gluttony player to collect another set of Globules before phasing.
 
 ### 35% Split Phase
-Once again this is essentially the same as the first split, however this time three rifts will spawn. This phase can get a bit hectic, especially if Gluttony stacks start to drop. Repeat the same process as the first phase, move to the North champion, CC it, Kill it, Send people ahead, remaining players closes the rift, and manage any Aspects in necessary, and repeat for the next two rifts. Sometimes a champion may get bored of waiting for yout party to walk to it and will come to you instead. If this is the case just swap to it once you have killed the champion you are currently attacking and make sure to pay attention to any Aspects spawning as they will not get cleaved down if you are away from the rift.
+Once again this is essentially the same as the first split, however this time three rifts will spawn. This phase can get a bit hectic, especially if Gluttony stacks start to drop. Repeat the same process as the first phase, move to the North champion, CC it, Kill it, Send people ahead, remaining players closes the rift, and manage any Avatars of Spite in necessary, and repeat for the next two rifts. Sometimes a champion may get bored of waiting for yout party to walk to it and will come to you instead. If this is the case just swap to it once you have killed the champion you are currently attacking and make sure to pay attention to any Aspects spawning as they will not get cleaved down if you are away from the rift.
 
 <Warning>
-When closing the final rift, Aspects can take a couple of seconds to despawn meaning they can still tether to Eparch and give him stacks. To prevent this you may need to kill any aspects before closing the rift if they are close to the middle of the arena!
+When closing the final rift, Avatars of Spite can take a couple of seconds to despawn meaning they can still tether to Eparch and give him stacks. To prevent this you may need to kill any aspects before closing the rift if they are close to the middle of the arena!
 </Warning>
 
 ### 35% - 0%
