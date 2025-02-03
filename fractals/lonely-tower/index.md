@@ -13,7 +13,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-02-03T22:49:28.027Z "
+date: "2025-02-03T23:04:09.425Z "
 consumables: []
 record:
   time: 2 min 25 sec
@@ -179,17 +179,17 @@ Additionally, during this phase, Eparch will target one player and apply the <La
 <GridItem sm="4">
 #### Rain of Despair
 <GifPlayer sourceId="lonely-tower-eparch-despair" caption=""/>
-Eparch will raise his greatsword in the air and spawn Globules of Despair. At the same time he will spawn Despair AoEs spiraling outwards from his hitbox. Standing in an AoE will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>.
+Eparch will raise his greatsword in the air and spawn Globules of Despair. At the same time he will spawn Despair AoEs spiraling inwards from the edge of the arena to Eparchs hitbox. Standing in an AoE will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>.
 </GridItem>
 <GridItem sm="4">
 #### Enraged Smash
 <GifPlayer sourceId="lonely-tower-eparch-rage" caption=""/>
-Eparch will leap into the air and slam his greatsword on the ground spawning Globules of Rage. At the same time fissues will spawn on the ground applying x to anyone hit. Eparch will also create a shockwave that needs to be jumped or dodged. Failing to avoid the shockwave will cause players to be hit by <Control name="Knockdown"/> and the shockwave will apply x.
+Eparch will leap into the air and slam his greatsword on the ground spawning Globules of Rage. At the same time fissues will spawn on the ground applying <Effect name="Agony"/> to anyone hit. Eparch will also create a shockwave that needs to be jumped or dodged. Failing to avoid the shockwave will cause players to be hit by a two second <Control name="Knockdown"/>.
 </GridItem>
 <GridItem sm="4">
 #### Wave of Envy
 <GifPlayer sourceId="lonely-tower-eparch-envy" caption=""/>
-Stand inside hitbox
+Eparch will raise his greatsword in the air and four arrows will apear from his hitbox. Shortly after Eparch will spin unleashing waves of envy in the direction of each arrow, spawning Globules of Envy. Anyone hit by this attack will have their boons corrupted. To avoid this make sure to dodge the waves.
 </GridItem>
 <GridItem sm="4">
 #### Inhale
