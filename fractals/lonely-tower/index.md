@@ -7,8 +7,8 @@ difficulties:
   - level: 100
     ar: 150
 potions:
-  - 9443
-  - 8886
+  - id: 50082
+  - id: 8887
 hasCM: false
 cycle: Day
 hidden: true
@@ -28,8 +28,8 @@ long_description: Immediately following the foundation of the Astral Ward,
 api: 26231
 description: Mabon, Isgarren. Pick a god and thank her for your survival...
 sigils:
-  - 24615
-  - 24664
+  - id: 24615
+  - id: 24664
 ---
 
 Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from.   
