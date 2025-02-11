@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-11T22:41:48.743Z "
+date: "2025-02-11T22:43:06.818Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -301,8 +301,8 @@ At the boss (pre spawned bosses)
 ### Mesmer Skips 
 <Video caption="by feint" youtube="4ZqZbggL_0o"/>
 
-### More Dark AI Reflect Memes
-<Video caption="by Ceisay" youtube="qcEN1W_Re4c"/>
+### More Dark AI Reflect Memes 
+<Video caption="by when is feint finally making a 97/98cm video that can go here" youtube="qcEN1W_Re4c"/>
 
 
 <Card title="Improving Further">
