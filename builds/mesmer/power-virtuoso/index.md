@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-11T22:43:06.818Z "
+date: "2025-02-11T22:55:03.287Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -242,6 +242,7 @@ If you lose yourself in the rotation, follow this priority list:
     - <Skill id="10174"/>
     - <Skill id="10267"/>
     - <Skill id="10221"/>
+    - <Skill id="72946"/>
 2.  Use <Skill id="21750"/> to recharge them all.
 3.  Use <Skill name="Bladesong Harmony"/> with 5 Blades as much as possible. Only delay it for <Effect name="Exposed"/> but remember that it also grants you a 5% damage buff through <Trait name="Deadly Blades"/>.
 4.  Use <Skill name="Bladesong Sorrow"/> and <Skill id="62597"/> for damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to prioritize having 5 Blades for <Skill name="Bladesong Harmony"/> though. Situationally you can use this with 5 Blades such as in your burst rotation or when a phase is about to end and <Skill name="Bladesong Harmony"/> is on cooldown.
