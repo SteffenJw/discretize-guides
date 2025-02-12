@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-12T13:11:24.015Z "
+date: "2025-02-12T17:15:05.824Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -314,7 +314,7 @@ There will be a few additional fight and group specific things to improve furthe
 
 Videos are the best resource to understand how a boss can be played. However, Virtuoso is currently specalization used in the main Slb/Dh + Scrapper and Ren composition, potentially limited PoVs exists.  
 
-In any case, check out the [dT discord](https://discord.com/invite/wndRTrmt) if you have further questions.
+In any case, check out the [dT discord](https://discord.com/invite/tgbxThQv) if you have further questions.
 </Card>
 
 
