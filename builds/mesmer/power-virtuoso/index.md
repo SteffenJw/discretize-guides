@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-13T11:04:05.794Z "
+date: "2025-02-13T22:39:30.551Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -137,7 +137,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <GridItem sm="5">
 ### Extra Weapons and Food
 - Focus offers your group a very efficient pull with <Skill name="Into the Void"/>.
-- Greatsword offers additional burst, but sacrifices the ability to precast dagger skills like <Skill name="Unstable Bladestorm"/>.
+- Greatsword can offer additional burst, but sacrifices the ability to precast dagger skills like <Skill name="Unstable Bladestorm"/> without using template swaps.
 - Sword offers an evade, mobility and additional boonstrip when used as mainhand weapon.
 - Always run Spear. 
 - Use sigil swapping where appropriate to gain additional damage.
