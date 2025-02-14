@@ -25,7 +25,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2025-02-02T23:54:37.463Z "
+date: "2025-02-14T23:34:16.268Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -302,4 +302,4 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 
 4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
 
-5. <Trait name="All for One"/>: This trait gives a 10% strike damage increase for every <Skill name="Legendary Renegade Stance"/> ability used. You ideally want to maintain this buff throughout both legends. To do so, make sure to cast <Skill name="Icerazor's Ire"/> twice in Kalla, once at the beginning and once at the end of the loop.
+5. <Trait name="All for One"/>: This trait gives a 15% strike damage increase for every <Skill name="Legendary Renegade Stance"/> ability used. You ideally want to maintain this buff throughout both legends. To do so, make sure to cast <Skill name="Icerazor's Ire"/> twice in Kalla, once at the beginning and once at the end of the loop.
