@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: false
 author: ""
 specialization: Reaper
