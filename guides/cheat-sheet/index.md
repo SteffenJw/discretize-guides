@@ -1,10 +1,10 @@
 ---
 title: Cheat sheet
-date: "2025-02-14T19:56:54.839Z "
+date: "2025-02-15T12:23:59.087Z "
 image: images/header.jpg
 description: Learn how to use various potions and sigils to increase damage output.
 ---
- 
+  
 This sheet is used to give quick access to the most optimal sigils and potions for each fractal in an average group for power builds. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils such as <Item id="84505"/> or <Item id="72872"/>. For further information consult the individual [Fractal guides](/fractals) and [class specific CM guides](/guides/cm-profession-guides). 
 
 <Warning>
@@ -13,7 +13,7 @@ Condition classes should use the sigils and utilities that are mentioned in the 
 
 | Fractal                                                  | Day/Night                 | Sigil & Potion                                                                                                                      | Description                                                                                                                                                                   |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Lonely Tower](/fractals/lonely-tower)                     | Day | <Item id="24868" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | When fighting Eparch swap <Item id="24615"/> for <Item id="24664"/> and use <Item id="8886"/>. Both <Item id="24664"/> and <Item id="8886"/> do not work on Cerus or Deimos, only on Eparch.     
+| [Lonely Tower](/fractals/lonely-tower)                     | Day | <Item id="24664" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="8886" size="large" disableText/>  | Both <Item id="24664"/> and <Item id="8886"/> do not work on Cerus or Deimos, only on Eparch and Kryptis adds.     
 |
 | [Silent Surf](/fractals/silent-surf)                     | Day | <Item id="24868" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | None                                      |
 | [Sunqua Peak](/fractals/sunqua-peak)                     | Day (T4) / Night (CM) | <Item id="36053" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | On normal mode swap <Item id="36053"/> for <Item id="24868"/>                                        |
