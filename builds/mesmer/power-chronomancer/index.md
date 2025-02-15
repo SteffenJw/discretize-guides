@@ -1,7 +1,7 @@
 ---
 title: Power Alac Chronomancer
 hidden: false
-archive: false
+archive: true
 rating: Good
 author: drauskam
 profession: Mesmer

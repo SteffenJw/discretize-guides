@@ -1,7 +1,7 @@
 ---
 title: Power Quick Herald
 hidden: false
-archive: false
+archive: true
 rating: Meta
 role: Power Damage
 author: SmG Phoenix.5183
