@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 author: Ascers.6082
 specialization: Firebrand
 boons:
