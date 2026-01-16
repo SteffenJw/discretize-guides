@@ -6,13 +6,13 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-16T17:06:45.324Z "
+date: "2026-01-16T17:08:54.889Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/>class.   
  
-It offers straightforward access to might and alacrity, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait id="526"/>. Several trait and skill choices exist to adapt the build to specific encounters.     
+It offers straightforward access to might and alacrity, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait id="516"/>. Several trait and skill choices exist to adapt the build to specific encounters.     
  
 
 <Divider text="Equipment"/> 
